@@ -1,0 +1,138 @@
+1713216884242:help
+1713216892450:hello
+1713217014120:hello Vesko
+1713226505999:help
+1713226518894:display clients
+1713226663645:dslycins
+1713226953305:ipylt
+1713226962509:sacesdpyit
+1713226963905:sacn
+1713226964736:sacesdl itdpyln
+1713226965568:ipa letdl inil lnipylesil itdpaces
+1713226966582:sacesilylnipyln
+1713226967549:sa esiycins
+1713226969124:slcn
+1713226970226:sals
+1713226997999:display clients
+1713227118311:ipa let
+1713227119952:dslycinsdslycins
+1713227121191:ipa letdslycins
+1713227121730:ipa letdpa lets
+1713227122315:islycins
+1713227132737:display clients
+1713227537536:saln
+1713227548880:display clients
+1713227556055:display products
+1713254915912:display clients
+1713255152993:help
+1713255156568:display products
+1713262005768:dou
+1713262018597:display products
+1713262022643:display clients
+1713271043161:help
+1713271235486:process order
+1713271246807:process order 5,1=10000,4=20000
+1713280933001:help
+1713280944654:display clients
+1713280966677:display products
+1713281186906:process order 5,1=10000,4=20000
+1713281477501:process order 4,1=10000,4=20000
+1713281758968:process order 5,1=10000,4=20000
+1713281773459:process order 5 ,1=10000,4=20000
+1713281790655:process order 1,1=10000,4=20000
+1713281798829:process order 4,1=10000,4=20000
+1713282078824:display clients
+1713282086496:display products
+1713282102776:process order 5,1=10000,4=20000
+1713282204729:rs re ,=00,=00
+1713282221046:process order 5,1=10000,4=20000
+1713283294535:display clients
+1713283576116:process order 4,1=10000,4=20000
+1713283596757:process order 5,1=10000,4=20000
+1713285392920:poesodr,=00,=00
+1713285395093:rcs re 411004200poesodr41100400
+1713285397298:rcs re ,=00,=200pocs re ,=00=00
+1713285417195:process order 5,1=10000,4=20000
+1713285430204:process order 4,1=10000,4=20000
+1713285502900:process order 5 ,1=10000,4=20000
+1713286685780:display client 5
+1713286766423:display client 3
+1713287002079:display client 5
+1713287039657:display client 1
+1713287107904:display client 5
+1713287282762:display client 1
+1713287438087:display client 5
+1713289315392:process order 5,1=10000,4=20000
+1713289559642:process order 4,1=10000,4=20000
+1713290426387:process order 5,1=10000,4=20000
+1713290558087:process order 3,1=10000,4=20000
+1713291182150:process order 5,1=10000,4=20000
+1713291200958:process order 3,1=10000,4=20000
+1713291205548:process order 5,1=10000,4=20000
+1713292699247:process order 3,1=10000,4=20000
+1713292747738:process order 1,1=10000,4=20000
+1713293339103:process order 3,1=10000,4=20000
+1713293412866:process order 5,1=10000,4=20000
+1713293421348:process order 4,1=10000,4=20000
+1713293427873:process order 2,1=10000,4=20000
+1713293438089:process order 1,1=10000,4=20000
+1713293444480:process order 1,1=1000,4=20000
+1713293456382:process order 2,1=1000,4=20000
+1713293460072:process order 3,1=1000,4=20000
+1713293465630:process order 4,1=1000,4=20000
+1713293470355:process order 5,1=1000,4=20000
+1713293543147:process order 4,4=100
+1713293564049:process order 5,4=100
+1713294517398:process order 4,4=100
+1713294907257:roesodr443
+1713294919997:process order 4,4=3
+1713294958852:process order 5,4=3
+1713294970777:process order 4,4=3
+1713294978518:process order 1,4=3
+1713294990691:process order 2,4=3
+1713294995102:process order 3,4=3
+1713295004913:process order 2,4=3
+1713295013687:process order 4,4=3
+1713295049240:process order 5,2=100
+1713299271236:help
+1713299280244:process order 5,2=100
+1713300304049:process order 5,2=100,1=10
+1713300337348:process order 5,2=100,1=10,4=10000
+1713300356109:process order 5,2=100,1=10,4=10000,2=11111
+1713300370742:process order 5,2=100,1=1000,4=10000,2=11111
+1713300379359:process order 5,2=10000,1=1000,4=10000,2=11111
+1713300384762:process order 5,2=10000,1=1000,4=100000,2=11111
+1713311418644:process order 5,2=10000,1=1000,4=10000,2=11111
+1713311450285:process order 5,2=100
+1713311961215:help
+1713311970983:display Clients
+1713311976476:display clients
+1713311983562:help
+1713312000149:process order 5,2=100
+1713313102730:process order 5,2=10000,1=1000,4=100000,2=11111
+1713313245740:HELP
+1713313248662:help
+1713313261300:process orders from file:
+1713313282307:process orders from file
+1713313578864:shell:> process orders from file --file src/data/orders.json
+1713313706678:process orders from file --file src/data/orders.json
+1713313880637:process orders from file --filesrc/data/orders.json
+1713313888155:process orders from file --file src/data/orders.json
+1713313919716:process orders from file --file "classpath:data/orders.json"
+1713313930496:shell:> process orders from file --file "file:./src/main/resources/data/orders.json"
+1713313946996:process orders from file --file "file:./src/main/resources/data/orders.json"
+1713313953986:process orders from file --file file:./src/main/resources/data/orders.json
+1713314075192:process orders from file --filePath "file:./src/main/resources/data/orders.json"
+1713314088704:shell:> process orders from file --filePath "classpath:data/orders.json"
+1713314097302:process orders from file --filePath "classpath:data/orders.json"
+1713314109642:process orders from file --filePath "file:./src/main/resources/data/orders.json"
+1713314138256:process orders from file --filePath "file:./src/data/orders.json"
+1713314235909:help
+1713314251407:process order 5,1=10000,4=20000
+1713315074209:process orders from file --filePath "file:./src/data/orders.json"
+1713315083719:process order 5,1=10000,4=20000
+1713315554477:process orders from file --filePath "file:./src/data/orders.json"
+1713315561399:process order 5,1=10000,4=20000
+1713316476066:process orders from file --filePath "file:./src/data/orders.json"
+1713317436930:process order 5,1=10000,4=20000
+1713317462849:process orders from file --filePath "file:./src/data/orders.json"
